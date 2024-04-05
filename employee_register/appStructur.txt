@@ -1,0 +1,25 @@
+. mostakhdamin_project
+|
++---. employee_register (app folder )
+|   |
+|   +--. migrations (includes files related to migrations)
+|   |    
+|   +--. templates
+|   |  | 
+|      +--. employee_register 
+|   |  |  |-- base.html
+|   |  |  |   |-- employee_form.html
+|   |  |  |   |-- employee_list.html
+|   |      
+|   |-- models.py
+|   |-- forms.py
+|   |-- models.py
+|   |-- urls.py
+|   |-- views.py
+|
++---. mostakhdamin_project (project folder )
+|   |
+|   |-- setting.py
+|   |-- urls.py
+
+
